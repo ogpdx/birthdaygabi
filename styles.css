@@ -42,6 +42,7 @@ body::before {
     max-width: 80%;
     backdrop-filter: blur(5px);
     overflow: visible;
+    margin-bottom: 30px;
 }
 
 /* Botão */
