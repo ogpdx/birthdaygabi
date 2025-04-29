@@ -8,7 +8,7 @@ function mostrarMensagem() {
 
     //musica de fundo
     if (elementos.audio) {
-        elementos.audio.currentTime = 38; // Inicia a música aos 2 minutos
+        elementos.audio.currentTime = 58; // Inicia a música aos 2 minutos
         elementos.audio.volume = 0.1; // volume reduzido
         elementos.audio.play().catch(err => {
             console.log("Autoplay bloqueado ou falha ao reproduzir:", err);
