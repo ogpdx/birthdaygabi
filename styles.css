@@ -86,10 +86,10 @@ button:hover {
     position: absolute;
     width: 140px;
     height: auto;
-    bottom: 70px;   
+    bottom: 60px;   
     left: 50%;
     transform: translateX(-50%);
-    margin-bottom: 118px;
+    margin-bottom: 120px;
     z-index: 1;
 }
 
